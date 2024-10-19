@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">Mechanical Engineering Student | Data Science Enthusiast</h3>
+<p align="center">I’m an aspiring Data Scientist with a strong foundation in Mechanical Engineering, passionate about applying AI and Machine Learning to solve real-world problems.</p>
 <img align="right" alt="coding" width="300" src="https://github.com/Ayush-ak87/Ayush-ak87/blob/main/CodingGIF.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-ak87&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-ak87" /> </p>
 
 - 🌱 I’m Currently Learning **Data Science and Machine Learning Concepts**
 
-- 👯 I’m Looking to Collaborate on **Data Science Projects**
+- 👯 I’m Looking to Collaborate on **Data Science, AI/ML  Projects**
 
 - 📫 You can reach me at **akagarwal.111a@gmail.com**
 
